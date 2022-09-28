@@ -1,0 +1,58 @@
+body{
+    background-image: url(Beautiful\ Wallpaper.jfif);
+    height: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+  div.a{
+    text-align: center;
+    font-size: large;
+    font-style: normal;
+  }
+
+  #ymessage{
+    padding: 50px 40px 50px 60px;
+    margin-bottom: 10px;
+    border-radius: 20px;
+
+  }
+  
+  h1{
+    color: #ea4335;
+    background:url(Marble.jfif) ;
+    text-align: center;
+  }
+
+      input[type=submit] {
+        background-color: #ea4335;
+        border: none;
+        color: #fff;
+        padding: 10px 20px;
+        text-decoration: none;
+        margin: 4px 2px;
+        cursor: pointer;
+      border-radius: 10px;
+      }
+
+      bee{
+        border: none;
+        padding:20px 30px;
+        text-decoration: none;
+        margin:5px 3px;
+        cursor:pointer;
+        border-radius: 10px;
+      }
+
+     #anything{
+      padding: 20px 15px 20px 15px;
+      margin-bottom: 5px;
+      border-radius: 20px;
+      }
+
+      #email{
+        padding: 20px 15px 20px 15px;
+        margin-bottom: 5px;
+        border-radius: 20px;
+      }
+      

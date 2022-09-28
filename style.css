@@ -1,0 +1,74 @@
+/** Body Element Styling **/
+body{
+        background-image: url(Beautiful\ Wallpaper.jfif);
+        height: 100%;
+        background-repeat: no-repeat;
+        background-size: cover;
+        font-size: larger;
+}
+
+/**Set image display to block, set image to center usin margin left and right 
+to be auto,set width to be 50% and set filter to dro-shadow.**/
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    filter: drop-shadow(8px 8px 10px gray);
+  }
+  
+/**Set text color to red, set backgrund image,
+and set font-style to be italics.**/
+h1{
+    font-style: italic;
+    color:#ea4335;
+    background-image: url(Marble.jfif);
+}
+
+/**Set font-size to larger,set font-style to italics
+and set text-color to red**/
+h2{
+    font-size: larger;
+    font-style: italic;
+    color: #ea4335;
+
+}
+
+/** Set font-size to be xx-large, text position to center,set text color to red,
+and set background-color to biege**/
+textarea{
+    font-size: xx-large;
+    text-align: center;
+    color: #ea4335;
+    background-color: beige;
+    border-radius: 20px;
+}
+
+/**Set text-align to center**/
+div.a{
+    text-align: center;
+}
+
+
+/**set text color to light blue**/
+h4{
+    color: #4285fa;
+}
+
+/**set text color to red,**/
+#ss{
+    width: 100px;
+    height: 50px;
+    background-color: #ea4335;
+    border: none;
+    color:antiquewhite;
+    padding: 10px 20px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 20px;
+}
+
+div.w{
+text-align: center;
+}
